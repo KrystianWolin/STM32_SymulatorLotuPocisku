@@ -1,7 +1,7 @@
 # STM32_SymulatorLotuPocisku
 
 ## Założenia
-https://github.com/KrystianWolin/TMS_C2000_SymulatorLotuPocisku#za%C5%82o%C5%BCenia-dotycz%C4%85ce-modelu-obiektu-i-regulatora
+Identyczne jak dla projektu dla platformy [TMS C2000](https://github.com/KrystianWolin/TMS_C2000_SymulatorLotuPocisku#za%C5%82o%C5%BCenia-dotycz%C4%85ce-modelu-obiektu-i-regulatora).
 
 ## Opis funkcjonalności oprogramowania
 Oprogramowanie ma za zadanie symulację wystrzału z armaty oraz regulacji kąta na podstawie 
